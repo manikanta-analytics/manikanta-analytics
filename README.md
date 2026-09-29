@@ -18,7 +18,7 @@ Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on exper
 | Power BI | Data Modeling, DAX, KPI Cards, Slicers, Filters, Interactive Dashboards |
 | Python | Pandas, NumPy, Data Cleaning, Basic Data Analysis |
 
-## 📊 Projects
+## 📊 Project
 
 **Production Downtime Analysis | Excel, MySQL, SQL, Power BI**
 
@@ -27,7 +27,8 @@ Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on exper
 - Developed an interactive **Power BI dashboard** with KPI cards, machine analysis, shift analysis, downtime causes, and monthly trends.
 - Analyzed **3,590 failure records across 8 machines** to identify patterns in downtime and failure causes.
 - Created machine-wise and shift-wise analysis to support production performance monitoring.
-- **GitHub:** `github.com/manikanta-analytics/production-downtime-analysis`
+- **GitHub:** [Production Downtime Analysis](https://github.com/manikanta-analytics/production-downtime-analysis)
+
 ## 📫 Contact
 
 - GitHub: https://github.com/manikanta-analytics
