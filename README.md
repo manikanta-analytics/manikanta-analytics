@@ -6,13 +6,15 @@ Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on exper
 
 ## 🛠️ Skills
 
-Data Analysis: Excel, SQL, Python
-Data Visualization: Power BI
-Databases: MySQL
-Excel: Data Cleaning, Pivot Tables, Lookup Functions, Conditional Formatting, Charts
-SQL: SELECT, WHERE, GROUP BY, HAVING, JOINs, Subqueries, Aggregate Functions, Window Functions
-Power BI: Data Modeling, DAX, KPI Cards, Interactive Dashboards, Filters, Slicers
-Python: Pandas, NumPy, Basic Data Analysis
+| **Category** | **Skills** |
+| ----------- | ----------- |
+| Data Analysis | Excel, SQL, Python |
+| Data Visualization | Power BI |
+| Database | MySQL |
+| Excel | Data Cleaning, Pivot Tables, XLOOKUP/VLOOKUP, Conditional Formatting, Charts |
+| SQL | SELECT, WHERE, GROUP BY, HAVING, JOINs, Subqueries, Aggregate Functions, Window Functions |
+| Power BI | Data Modeling, DAX, KPI Cards, Slicers, Filters, Interactive Dashboards |
+| Python | Pandas, NumPy, Data Cleaning, Basic Data Analysis |
 
 ## 📊 Projects
 
