@@ -20,20 +20,47 @@ Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on exper
 
 ## 📊 Projects
 
-### 1. Production Downtime Analysis
-**Tools:** Excel | MySQL | Power BI
+## 📊 Project: Production Downtime Analysis
 
-Analyzed production downtime data to identify machine performance, downtime patterns, failure causes, and shift-wise trends.
+### 📌 Project Overview
 
-### 2. Sales Analysis
-**Tools:** Excel | SQL | Power BI
+This project analyzes production downtime data to understand machine performance, downtime patterns, failure frequency, downtime causes, maintenance costs, production trends, and shift-wise performance.
 
-Analyzed sales data to understand revenue trends, product performance, customer segments, and regional sales.
+The project follows an end-to-end data analytics workflow:
 
-### 3. Netflix Content Analysis
-**Tools:** Python | SQL | Power BI
+**Excel → MySQL → SQL Analysis → Power BI Dashboard**
 
-Analyzed Netflix content to identify trends in movies and TV shows, genres, countries, ratings, and release years.
+### 🎯 Objectives
+
+- Identify machines with high downtime
+- Analyze downtime across different shifts
+- Identify major failure and downtime causes
+- Analyze production and machine performance
+- Understand maintenance cost patterns
+- Create an interactive dashboard for performance monitoring
+
+### 🛠️ Tools & Technologies
+
+- **Excel** – Data cleaning and preparation
+- **MySQL** – Data storage
+- **SQL** – Data analysis and extracting insights
+- **Power BI** – Data visualization and dashboard development
+- **Python** – Data analysis and learning
+
+### 🔄 Project Workflow
+
+1. **Data Cleaning:** Cleaned and prepared the production downtime dataset using Excel.
+2. **Data Storage:** Imported the cleaned dataset into MySQL.
+3. **SQL Analysis:** Used SQL queries to analyze downtime, failures, production, maintenance costs, and machine/shift performance.
+4. **Power BI Dashboard:** Created an interactive dashboard with KPIs, machine analysis, shift analysis, downtime causes, and trends.
+5. **Insights:** Identified patterns in machine downtime, failure frequency, downtime causes, and shift performance.
+
+### 📈 Key Metrics
+
+- **Total Production Records:** 13,104
+- **Total Downtime:** 13,309.50 hours
+- **Total Failures:** 3,590
+- **Machines Analyzed:** 8
 
 ## 🎓 Education
 
