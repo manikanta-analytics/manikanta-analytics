@@ -2,16 +2,17 @@
 
 ### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-I am a Data Analytics fresher with a B.Tech in Mechanical Engineering. I have developed practical skills in Excel, SQL, Power BI, and Python for data cleaning, analysis, visualization, and reporting.
-
-I enjoy working with data, finding patterns, identifying insights, and presenting information through dashboards.
+Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on experience in Excel, SQL, Power BI, and Python. Skilled in data cleaning, analysis, KPI creation, and dashboard development. Built an end-to-end Production Downtime Analysis project using Excel, MySQL, SQL, and Power BI to analyze machine performance, failures, downtime, and production trends. Eager to apply analytical and problem-solving skills in an entry-level Data Analyst role.
 
 ## 🛠️ Skills
 
-- **Excel:** Data Cleaning, Pivot Tables, XLOOKUP, Charts, Dashboards
-- **SQL:** Joins, GROUP BY, HAVING, Subqueries, CTEs, Window Functions
-- **Power BI:** Power Query, Data Modeling, DAX, Interactive Dashboards
-- **Python:** Pandas, NumPy, Matplotlib, Data Cleaning, EDA
+Data Analysis: Excel, SQL, Python
+Data Visualization: Power BI
+Databases: MySQL
+Excel: Data Cleaning, Pivot Tables, Lookup Functions, Conditional Formatting, Charts
+SQL: SELECT, WHERE, GROUP BY, HAVING, JOINs, Subqueries, Aggregate Functions, Window Functions
+Power BI: Data Modeling, DAX, KPI Cards, Interactive Dashboards, Filters, Slicers
+Python: Pandas, NumPy, Basic Data Analysis
 
 ## 📊 Projects
 
