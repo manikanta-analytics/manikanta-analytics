@@ -2,7 +2,9 @@
 
 ### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on experience in Excel, SQL, Power BI, and Python. Skilled in data cleaning, analysis, KPI creation, and dashboard development. Built an end-to-end Production Downtime Analysis project using Excel, MySQL, SQL, and Power BI to analyze machine performance, failures, downtime, and production trends. Eager to apply analytical and problem-solving skills in an entry-level Data Analyst role.
+## 👨‍💻 Professional Summary
+
+Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on experience in Excel, SQL, Power BI, and Python. Skilled in data cleaning, analysis, KPI creation, and dashboard development. Built an end-to-end **Production Downtime Analysis** project using Excel, MySQL, SQL, and Power BI to analyze machine performance, failures, downtime, and production trends. Eager to apply analytical and problem-solving skills in an entry-level Data Analyst role.
 
 ## 🛠️ Skills
 
