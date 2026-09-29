@@ -20,61 +20,14 @@ Aspiring Data Analyst with a B.Tech in Mechanical Engineering and hands-on exper
 
 ## 📊 Projects
 
-## 📊 Project: Production Downtime Analysis
+**Production Downtime Analysis | Excel, MySQL, SQL, Power BI**
 
-### 📌 Project Overview
-
-This project analyzes production downtime data to understand machine performance, downtime patterns, failure frequency, downtime causes, maintenance costs, production trends, and shift-wise performance.
-
-The project follows an end-to-end data analytics workflow:
-
-**Excel → MySQL → SQL Analysis → Power BI Dashboard**
-
-### 🎯 Objectives
-
-- Identify machines with high downtime
-- Analyze downtime across different shifts
-- Identify major failure and downtime causes
-- Analyze production and machine performance
-- Understand maintenance cost patterns
-- Create an interactive dashboard for performance monitoring
-
-### 🛠️ Tools & Technologies
-
-- **Excel** – Data cleaning and preparation
-- **MySQL** – Data storage
-- **SQL** – Data analysis and extracting insights
-- **Power BI** – Data visualization and dashboard development
-- **Python** – Data analysis and learning
-
-### 🔄 Project Workflow
-
-1. **Data Cleaning:** Cleaned and prepared the production downtime dataset using Excel.
-2. **Data Storage:** Imported the cleaned dataset into MySQL.
-3. **SQL Analysis:** Used SQL queries to analyze downtime, failures, production, maintenance costs, and machine/shift performance.
-4. **Power BI Dashboard:** Created an interactive dashboard with KPIs, machine analysis, shift analysis, downtime causes, and trends.
-5. **Insights:** Identified patterns in machine downtime, failure frequency, downtime causes, and shift performance.
-
-### 📈 Key Metrics
-
-- **Total Production Records:** 13,104
-- **Total Downtime:** 13,309.50 hours
-- **Total Failures:** 3,590
-- **Machines Analyzed:** 8
-
-## 🎓 Education
-
-**B.Tech – Mechanical Engineering**  
-TKR College of Engineering and Technology  
-2025
-
-## 📜 Certifications
-
-- Data Analytics Certifications
-- SQL
-- Excel
-- Power BI
-
+- Cleaned and prepared **13,104 production records** using Excel for analysis.
+- Imported the cleaned dataset into **MySQL** and used SQL to analyze machine downtime, failures, production quantity, maintenance cost, and shift performance.
+- Developed an interactive **Power BI dashboard** with KPI cards, machine analysis, shift analysis, downtime causes, and monthly trends.
+- Analyzed **3,590 failure records across 8 machines** to identify patterns in downtime and failure causes.
+- Created machine-wise and shift-wise analysis to support production performance monitoring.
+- **GitHub:** `github.com/manikanta-analytics/production-downtime-analysis`
 ## 📫 Contact
 
 - GitHub: https://github.com/manikanta-analytics
